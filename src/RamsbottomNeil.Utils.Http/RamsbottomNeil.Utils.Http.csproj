@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
+
+	  <RepositoryUrl>https://github.com/neil-ramsbottom/utils-http/</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
